@@ -18,8 +18,7 @@ the biggest screen in the house.
   as participants leave, supports rejoining an in-progress call at any time.
 - 📇 **Contacts & Call History** — stored locally on-device.
 - 🗂️ **Groups** — saved rosters for group calling, local-only.
-- 👤 **Profile** — identity/handle, avatar, a device PIN lock, and encrypted backup export/import
-  (byte-for-byte compatible with the original WebView app's own backup format).
+- 👤 **Profile** — identity/handle, avatar, a device PIN lock, and encrypted backup export/import.
 - ⚙️ **Configurable TURN** — ExpressTURN, Metered.ca, Turnix.io, or a custom server, plus a
   built-in webcam/mic preview and diagnostics screen.
 - ⭐ **A "MeetMeTV Favorites" launcher channel** — call a favorited contact directly from the
@@ -31,9 +30,9 @@ the biggest screen in the house.
   reachable right now: 🟢 green means online, 🟡 yellow means away, 🔴 red means they're already
   on a call, and a gray power-off icon means they're currently offline/unreachable.
 - 🖼️ **Picture-in-Picture** — shrink an active call down and keep it running while you go back to
-  the TV's own home screen (on devices/launchers that support it). There's also an in-app floating
-  call window that works on every device regardless of that support, letting you shrink the call
-  into a small corner and keep browsing the rest of MeetMeTV without leaving it at all.
+  the TV's own home screen. There's also an in-app floating call window that works on every device
+  regardless of that support, letting you shrink the call into a small corner and keep browsing the
+  rest of MeetMeTV without leaving it at all.
 - 🤓 **"Stats for Nerds"** — an optional overlay during a call showing the real technical numbers
   behind it: video resolution, bitrate, and packet loss in each direction, network latency, and
   how the call is actually connected (direct, or relayed through a server). Useful for checking
@@ -53,6 +52,25 @@ the biggest screen in the house.
   shared server.
 - **TV home screen integration** — a real home-screen launcher row for favorite contacts, and
   picture-in-picture support during an active call.
+
+## ⚠️ Technical Limitations
+
+These technical limitations are tied more to the hardware itself than to the app in general.
+
+These are the technical limitations found during this app's development:
+
+- Not every device has hardware encoding support - when that's the case, the supported resolution
+  will be limited to something lower than what the camera itself supports, and on top of that, the
+  device will run hotter and may reboot if it gets hotter than it can handle. If you want hardware
+  encoding on your device, please reach out to its manufacturer.
+- The Google TV Streamer has hardware encoding issues where the resolution isn't stable; on top of
+  that, the camera can freeze at any moment, requiring a device reboot to fix it. This was reported
+  on Google's own Issue Tracker: https://issuetracker.google.com/issues/546793415 - feel free to
+  leave a comment there asking for a prompt fix.
+- Picture-in-Picture isn't universally supported - several devices likely don't support it, or
+  used to but no longer do, so the video call will simply end when pressing Home on a device
+  without support. The only tested device confirmed to support it so far is the Google TV
+  Streamer - you can check this yourself in the "Other Settings" tab.
 
 ## 💬 Support & feedback
 
