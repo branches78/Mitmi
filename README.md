@@ -27,6 +27,9 @@ the biggest screen in the house.
 - 🔔 **On-screen incoming-call notification** — a small banner in the top-right corner alerts you
   to an incoming call even while you're watching or browsing something else, so you never miss
   one. Can be turned off in Settings if you'd rather not use it.
+- 🟢 **At-a-glance contact status** — a small dot on each contact's avatar shows whether they're
+  reachable right now: 🟢 green means online, 🟡 yellow means away, 🔴 red means they're already
+  on a call, and a gray power-off icon means they're currently offline/unreachable.
 
 ## 🛠️ How it works (technical summary)
 
