@@ -30,6 +30,10 @@ the biggest screen in the house.
 - 🟢 **At-a-glance contact status** — a small dot on each contact's avatar shows whether they're
   reachable right now: 🟢 green means online, 🟡 yellow means away, 🔴 red means they're already
   on a call, and a gray power-off icon means they're currently offline/unreachable.
+- 🖼️ **Picture-in-Picture** — shrink an active call down and keep it running while you go back to
+  the TV's own home screen (on devices/launchers that support it). There's also an in-app floating
+  call window that works on every device regardless of that support, letting you shrink the call
+  into a small corner and keep browsing the rest of MeetMeTV without leaving it at all.
 
 ## 🛠️ How it works (technical summary)
 
