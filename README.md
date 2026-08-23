@@ -24,6 +24,9 @@ the biggest screen in the house.
   built-in webcam/mic preview and diagnostics screen.
 - ⭐ **A "MeetMeTV Favorites" launcher channel** — call a favorited contact directly from the
   Android TV/Google TV home screen without opening the app first.
+- 🔔 **On-screen incoming-call notification** — a small banner in the top-right corner alerts you
+  to an incoming call even while you're watching or browsing something else, so you never miss
+  one. Can be turned off in Settings if you'd rather not use it.
 
 ## 🛠️ How it works (technical summary)
 
