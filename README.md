@@ -55,9 +55,7 @@ the biggest screen in the house.
 
 ## ⚠️ Technical Limitations
 
-These technical limitations are tied more to the hardware itself than to the app in general.
-
-These are the technical limitations found during this app's development:
+These technical limitations are tied more to the hardware itself than to the app in general:
 
 - Not every device has hardware encoding support - when that's the case, the supported resolution
   will be limited to something lower than what the camera itself supports, and on top of that, the
@@ -67,6 +65,7 @@ These are the technical limitations found during this app's development:
   that, the camera can freeze at any moment, requiring a device reboot to fix it. This was reported
   on Google's own Issue Tracker: https://issuetracker.google.com/issues/546793415 - feel free to
   leave a comment there asking for a prompt fix.
+  - The Google TV Streamer is unable to detect the microphone of some webcams, specially from generic ones.
 - Picture-in-Picture isn't universally supported - several devices likely don't support it, or
   used to but no longer do, so the video call will simply end when pressing Home on a device
   without support. The only tested device confirmed to support it so far is the Google TV
