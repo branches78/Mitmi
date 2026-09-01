@@ -14,7 +14,7 @@ the biggest screen in the house.
 
 - 📹 **1:1 video/voice calling** — outgoing and incoming, adaptive bitrate/resolution based on
   live network conditions, hardware H.264 encoding confirmed working on real devices.
-- 👥 **Group video calling** (3-4 participants, mesh topology) — collapses to a 1:1-style layout
+- 👥 **Group video calling** (up to 5 participants, mesh topology) — collapses to a 1:1-style layout
   as participants leave, supports rejoining an in-progress call at any time.
 - 📇 **Contacts & Call History** — stored locally on-device.
 - 🗂️ **Groups** — saved rosters for group calling, local-only.
@@ -59,11 +59,11 @@ These technical limitations are tied more to the hardware itself than to the app
 
 - Not every device has hardware encoding support - when that's the case, the supported resolution
   will be limited to something lower than what the camera itself supports, and on top of that, the
-  device will run hotter and may reboot if it gets hotter than it can handle. If you want hardware
-  encoding on your device, please reach out to its manufacturer.
+  device will run hotter and may reboot if it gets hotter than it can handle. You can check if your device has hardware encoding support by going to settings -> Webcam Settings where you will see the confirmation at the top of the card. If you want hardware
+  encoding on your device, please reach out to the manufacturer.
 - The Google TV Streamer has hardware encoding issues where the resolution isn't stable; on top of
   that, the camera can freeze at any moment, requiring a device reboot to fix it. This was reported
-  on Google's own Issue Tracker: https://issuetracker.google.com/issues/546793415 - feel free to
+  at Google's own Issue Tracker: https://issuetracker.google.com/issues/546793415 - feel free to
   leave a comment there asking for a prompt fix.
 - The Google TV Streamer is unable to detect the microphone of some webcams, specially from generic ones.
 - Picture-in-Picture isn't universally supported - several devices likely don't support it, or
