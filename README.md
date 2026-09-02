@@ -18,7 +18,7 @@ the biggest screen in the house.
   as participants leave, supports rejoining an in-progress call at any time.
 - 📇 **Contacts & Call History** — stored locally on-device.
 - 🗂️ **Groups** — saved rosters for group calling, local-only.
-- 👤 **Profile** — identity/handle, avatar, a device PIN lock, and encrypted backup export/import.
+- 👤 **Profile** — handle, avatar, a device PIN lock, and encrypted backup export/import.
 - ⚙️ **Configurable TURN** — ExpressTURN, Metered.ca, Turnix.io, or a custom server, plus a
   built-in webcam/mic preview and diagnostics screen.
 - ⭐ **A "MeetMeTV Favorites" launcher channel** — call a favorited contact directly from the
