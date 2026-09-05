@@ -22,7 +22,8 @@ the biggest screen in the house.
   to protect your profile from unwanted users as well as other sensitive parts of the interface.
 - 📹 **Camera Preview** — It allows you check if the camera and microphone are detected correctly,
   as well as the type of encoding supported by the device (hardware or software).
-- ⚙️ **Configurable TURN Server (optional)** — ExpressTURN, Metered.ca, Turnix.io, or a custom server.
+- ⚙️ **Configurable TURN Server (optional)** — ExpressTURN, Metered.ca, Turnix.io, or a custom server
+  and it's needed only in case that some calls don't go through with Point to Point or with a STUN Server.
 - ⭐ **A "MeetMeTV Favorites" launcher channel** — call a favorited contact directly from the
   Android TV/Google TV home screen without opening the app first.
 - 🔔 **On-screen incoming-call notification** — a small banner in the top-right corner alerts you
