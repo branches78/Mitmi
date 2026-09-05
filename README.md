@@ -43,13 +43,6 @@ the biggest screen in the house.
   to save the export for one-time future use, such as when you need to replace your current device
   with a new one because it got damaged or broken or it's just old.
 
-## 📒 How to Obtain & Add Contacts
-
-- Every user on MeetMeTV has a unique username handle (for example: @sarah_chen or @living_room).
-- Ask for Their Username Handle — Request your friend or family member's @username to connect directly.
-- Save in Address Book — Use the Contacts tab to add them to your directory or type their handle
-  into search to dial immediately without saving.
-
 ## 🛠️ How it Works
 
 - **Native, not browser-based** — built with Jetpack Compose and native WebRTC, calls run through
@@ -73,6 +66,13 @@ the biggest screen in the house.
   of the key. The server verifies that signature before ever letting a device join your account,
   so nobody can hijack your handle or impersonate your device — not even with a modified copy of
   the app.
+  
+## 📒 How to Obtain & Add Contacts
+  
+- Every user on MeetMeTV has a unique username handle (for example: @sarah_chen or @living_room).
+- Ask for Their Username Handle — Request your friend or family member's @username to connect directly.
+- Save in Address Book — Use the Contacts tab to add them to your directory or type their handle
+  into search to dial immediately without saving.
 
 ## ⚠️ Technical Limitations
 
