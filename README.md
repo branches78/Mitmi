@@ -39,7 +39,7 @@ the biggest screen in the house.
   behind it: video resolution, bitrate, and packet loss in each direction, network latency, and
   how the call is actually connected (direct, or relayed through a server). Useful for checking
   call quality or troubleshooting a shaky connection - completely optional to look at.
-- 💾 **Export/Import a profile backup** — You can use your profile on up to 2 devices, as well as
+- 💾 **Export/Import a profile backup** — You can import your profile on up to 2 devices, as well as
   to save the export for one-time future use, such as when you need to replace your current device
   with a new one because it got damaged or broken or it's just old.
 
@@ -79,13 +79,13 @@ the biggest screen in the house.
 - Not every device has hardware encoding support — when that's the case, the supported resolution
   will be limited to something lower than what the camera supports compared to hardware encoding
   and on top of that, the device will run hotter and may reboot if it gets hotter than it can handle.
-  You can check if your device has hardware encoding support by going to settings -> Webcam Settings
+  You can check if your device has hardware encoding support by going to "Settings" → "Webcam Settings"
   where you will see the confirmation at the top of the card. If you want hardware encoding on your
   device, please reach out to the manufacturer.
 - Picture-in-Picture isn't universally supported — several devices likely don't support it, or
   used to but no longer do, so the video call will simply end when pressing the Home button on
   the remote control. The only tested device confirmed to support it so far is the Google TV
-  Streamer. You can get a confirmation about this in the "Other Settings" tab.
+  Streamer. You can get a confirmation about this in "Settings" → "Other Settings" tab.
 
 ## Current Hardware Issues
 
