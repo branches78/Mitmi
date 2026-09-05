@@ -43,7 +43,7 @@ the biggest screen in the house.
   to save the export for one-time future use, such as when you need to replace your current device
   with a new one because it got damaged or broken or it's just old.
 
-## How to Obtain & Add Contacts
+## 📒 How to Obtain & Add Contacts
 
 - Every user on MeetMeTV has a unique username handle (for example: @sarah_chen or @living_room).
 - Ask for Their Username Handle — Request your friend or family member's @username to connect directly.
