@@ -2,7 +2,7 @@
 
 Android for TV video calling app.
 
-## 👋 What is this?
+## 👋 What is This?
 
 MeetMeTV is a video calling app made for the TV — a way to close the distance between the people
 who matter, whether that's family who live far away, friends who don't get to visit often, or
@@ -50,7 +50,7 @@ the biggest screen in the house.
 - Save in Address Book — Use the Contacts tab to add them to your directory or type their handle
   into search to dial immediately without saving.
 
-## 🛠️ How it works (technical summary)
+## 🛠️ How it Works
 
 - **Native, not browser-based** — built with Jetpack Compose and native WebRTC, calls run through
   a native video engine built directly for Android TV hardware, reaching the device's own hardware
@@ -95,7 +95,7 @@ at Google's Issue Tracker website here: https://issuetracker.google.com/issues/5
 leave a comment there asking for a prompt fix. The Google TV Streamer is also unable to detect
 the microphone of some webcams, specially from generic ones.
 
-## 💬 Support & feedback
+## 💬 Support & Feedback
 
 Found a bug or have a feature request? Open an issue on this repository.
 
