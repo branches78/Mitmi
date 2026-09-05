@@ -19,8 +19,7 @@ the biggest screen in the house.
 - 📇 **Contacts & Call History** — stored locally on-device.
 - 🗂️ **Groups** — saved rosters for group calling, local-only.
 - 👤 **Profile** — handle, avatar, a device PIN lock, and encrypted backup export/import.
-- ⚙️ **Configurable TURN** — ExpressTURN, Metered.ca, Turnix.io, or a custom server, plus a
-  built-in webcam/mic preview and diagnostics screen.
+- ⚙️ **Configurable TURN Server (optional)** — ExpressTURN, Metered.ca, Turnix.io, or a custom server.
 - ⭐ **A "MeetMeTV Favorites" launcher channel** — call a favorited contact directly from the
   Android TV/Google TV home screen without opening the app first.
 - 🔔 **On-screen incoming-call notification** — a small banner in the top-right corner alerts you
