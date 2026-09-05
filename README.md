@@ -35,7 +35,7 @@ the biggest screen in the house.
   the TV's own home screen. There's also an in-app floating call window that works on every device
   regardless of that support, letting you shrink the call into a small corner and keep browsing the
   rest of MeetMeTV without leaving it at all.
-- 🤓 **"Stats for Nerds"** — an optional overlay during a call showing the real technical numbers
+- 🤓 **Stats for Nerds** — an optional overlay during a call showing the real technical numbers
   behind it: video resolution, bitrate, and packet loss in each direction, network latency, and
   how the call is actually connected (direct, or relayed through a server). Useful for checking
   call quality or troubleshooting a shaky connection - completely optional to look at.
