@@ -87,7 +87,7 @@ the biggest screen in the house.
   the remote control. The only tested device confirmed to support it so far is the Google TV
   Streamer. You can get a confirmation about this in "Settings" → "Other Settings" tab.
 
-## Current Hardware Issues
+## 🚨 Current Hardware Issues
 
 The Google TV Streamer has hardware encoding issues, where the resolution isn't stable, on top of
 that, the camera can freeze at any moment, requiring a device reboot to fix it. This was reported
