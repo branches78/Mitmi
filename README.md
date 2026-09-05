@@ -38,9 +38,11 @@ the biggest screen in the house.
   how the call is actually connected (direct, or relayed through a server). Useful for checking
   call quality or troubleshooting a shaky connection - completely optional to look at.
 - 🔒 **Hardware-backed account security** — each device generates its own cryptographic identity
-  key inside its own secure hardware chip, never exported or stored anywhere else. The server
-  verifies it before ever letting a device join your account, so nobody can hijack your handle or
-  impersonate your device — not even with a modified copy of the app.
+  key inside its own secure hardware chip. The private key itself never leaves that chip — not
+  even when exporting/importing a profile backup, which carries a signed permission slip instead
+  of the key. The server verifies that signature before ever letting a device join your account,
+  so nobody can hijack your handle or impersonate your device — not even with a modified copy of
+  the app.
 
 ## 🛠️ How it works (technical summary)
 
