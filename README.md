@@ -28,7 +28,7 @@ the biggest screen in the house.
   one. Can be turned off in Settings if you'd rather not use it.
 - 👁️ **At-a-glance contact status** — a small dot on each contact's avatar shows whether they're
   reachable right now: 🟢 green means online, 🟡 yellow means away, 🔴 red means they're already
-  on a call, and a gray power-off icon means they're currently offline/unreachable.
+  on a call, and a 🔌 gray power-off icon means they're currently offline/unreachable.
 - 🖼️ **Picture-in-Picture** — shrink an active call down and keep it running while you go back to
   the TV's own home screen. There's also an in-app floating call window that works on every device
   regardless of that support, letting you shrink the call into a small corner and keep browsing the
