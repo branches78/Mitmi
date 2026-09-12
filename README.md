@@ -1,10 +1,10 @@
-# MeetMeTV
+# Mitmi
 
 Android for TV video calling app.
 
 ## 👋 What is This?
 
-MeetMeTV is a video calling app made for the TV — a way to close the distance between the people
+Mitmi is a video calling app made for the TV — a way to close the distance between the people
 who matter, whether that's family who live far away, friends who don't get to visit often, or
 anyone you'd rather see face-to-face than just hear on a phone call. Instead of huddling around a
 small phone or laptop screen, everyone in the room can join a 1:1 or group video call together, on
@@ -24,7 +24,7 @@ the biggest screen in the house.
   as well as the type of encoding supported by the device (hardware or software).
 - ⚙️ **Configurable TURN Server (optional)** — ExpressTURN, Metered.ca, Turnix.io, or a custom server
   and it's needed only in case that some calls don't go through with Point to Point or with a STUN Server.
-- ⭐ **A "MeetMeTV Favorites" launcher channel** — call a favorited contact directly from the
+- ⭐ **A "Mitmi Favorites" launcher channel** — call a favorited contact directly from the
   Android TV/Google TV home screen without opening the app first.
 - 🔔 **On-screen incoming-call notification** — a small banner in the top-right corner alerts you
   to an incoming call even while you're watching or browsing something else, so you never miss
@@ -35,7 +35,7 @@ the biggest screen in the house.
 - 🖼️ **Picture-in-Picture** — shrink an active call down and keep it running while you go back to
   the TV's own home screen. There's also an in-app floating call window that works on every device
   regardless of that support, letting you shrink the call into a small corner and keep browsing the
-  rest of MeetMeTV without leaving it at all.
+  rest of Mitmi without leaving it at all.
 - 🤓 **Stats for Nerds** — an optional overlay during a call showing the real technical numbers
   behind it: video resolution, bitrate, and packet loss in each direction, network latency, and
   how the call is actually connected (direct, or relayed through a server). Useful for checking
@@ -70,7 +70,7 @@ the biggest screen in the house.
   
 ## 📒 How to Obtain & Add Contacts
   
-- Every user on MeetMeTV has a unique username handle (for example: @sarah_chen or @living_room).
+- Every user on Mitmi has a unique username handle (for example: @sarah_chen or @living_room).
 - Ask for Their Username Handle — Request your friend or family member's @username to connect directly.
 - Save in Address Book — Use the Contacts tab to add them to your directory or type their handle
   into search to dial immediately without saving.
