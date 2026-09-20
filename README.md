@@ -1,6 +1,6 @@
 # Mitmi
 
-Android for TV video calling app.
+Private video calls for your TV. Free, no ads, no tracking.
 
 ## 👋 What is This?
 
@@ -40,6 +40,8 @@ the biggest screen in the house.
   behind it: video resolution, bitrate, and packet loss in each direction, network latency, and
   how the call is actually connected (direct, or relayed through a server). Useful for checking
   call quality or troubleshooting a shaky connection - completely optional to look at.
+- 🔗 **Add a second device** — You can add up to 2 devices with a short code, valid for one minute.
+  Enter it on the new device (both online) and your profile, contacts and groups carry over.
 - 💾 **Export/Import a profile backup** — You can import your profile on up to 2 devices, as well as
   to save the export for one-time future use, such as when you need to replace your current device
   with a new one because it got damaged or broken or it's just old.
@@ -89,7 +91,7 @@ the biggest screen in the house.
   Streamer. You can get a confirmation about this in "Settings" → "Other Settings" tab.
 - For some reason, the microphone on some webcams is not detected by one particular device
   but the same microphone is detected by a different device. This limitation has nothing
-  to do with the application but in the device's firmware.
+  to do with the application but with the device's firmware.
 
 ## 🚨 Current Hardware Issues
 
