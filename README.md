@@ -1,8 +1,8 @@
 # Mitmi
 
-Private video calls for your TV. Free, no ads, no tracking.
+Private video calls on your TV for free, with no ads and no tracking.
 
-## 👋 What is This?
+## 👋 What is it?
 
 Mitmi is a video calling app made for the TV — a way to close the distance between the people
 who matter, whether that's family who live far away, friends who don't get to visit often, or
@@ -57,7 +57,7 @@ the biggest screen in the house.
   call media exists strictly in real time.
 - **Hardware Encoding Support** — AV1, H264 and H265 Hardware Encoding is supported as long as
   the device supports it, you can check the codec and the type of encoding used (hardware or software)
-  in the "Stats for Nerds".
+  in the "Webcam Settings tab and at the "Stats for Nerds".
 - **Adaptive bandwidth** — captures video at the camera's real maximum resolution and steps
   through a resolution ladder based on live network conditions, so quality adapts smoothly instead
   of freezing or dropping the call.
