@@ -1,6 +1,6 @@
 # Mitmi
 
-Private video calls on your TV for free, with no ads and no tracking.
+Private video calls on your TV for free, baked with WebRTC, with no ads and no tracking.
 
 ## 👋 What is it?
 
@@ -13,7 +13,7 @@ the biggest screen in the house.
 ## ✨ Features
 
 - 📹 **1:1 video/voice calling** — outgoing and incoming, adaptive bitrate/resolution based on
-  live network conditions, hardware H.264 encoding confirmed working on real devices.
+  live network conditions, hardware H.264 and H.265 encoding confirmed working on real devices.
 - 👥 **Group video calling** (up to 5 participants, mesh topology) — collapses to a 1:1-style layout
   as participants leave, supports rejoining an in-progress call at any time.
 - 📇 **Contacts & Call History** — stored locally on-device.
@@ -105,5 +105,5 @@ Found a bug or have a feature request? Open an issue on this repository.
 ## 📄 License
 
 Proprietary. Unauthorized copying, modification, reverse engineering, or redistribution is
-prohibited. Please check the Terms & Conditions and Privacy Policy buttons at the bottom of
-the "About" tab.
+prohibited. Please check the Terms & Conditions and Privacy Policy before creating a handle,
+at the at the Mitmi [website](mitmi-web.onrender.com) and at the bottom of the "About" tab.
