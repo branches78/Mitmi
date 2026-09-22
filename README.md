@@ -95,10 +95,8 @@ the biggest screen in the house.
 
 ## 🚨 Current Hardware Issues
 
-The Google TV Streamer has hardware encoding issues, where the resolution isn't stable, on top of
-that, the camera can freeze at any moment, requiring a device reboot to fix it. This was reported
-at Google's Issue Tracker website here: https://issuetracker.google.com/issues/546793415 - feel free to
-leave a comment there asking for a prompt fix.
+The Google TV Streamer has hardware encoding issues with the h.264 and h.265 codecs and were reported
+at Google's Issue Tracker website here: https://issuetracker.google.com/issues/546793415 and here: https://issuetracker.google.com/issues/564530609 - feel free to leave a comment there asking for a prompt fix.
 
 ## 💬 Support & Feedback
 
