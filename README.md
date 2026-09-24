@@ -29,9 +29,10 @@ the biggest screen in the house.
 - 🔔 **On-screen incoming-call notification** — a small banner in the top-right corner alerts you
   to an incoming call even while you're watching or browsing something else, so you never miss
   one. Can be turned off in Settings if you'd rather not use it.
-- 👁️ **At-a-glance contact status** — a small dot on each contact's avatar shows whether they're
-  reachable right now: 🟢 green means online, 🟡 yellow means away, 🔴 red means they're already
-  on a call, and a 🔌 gray power-off icon means they're currently offline/unreachable.
+- 👁️ **At-a-glance contact status** — a small indicator on each contact's avatar shows whether
+  they're reachable right now: 🟢 green dot means online, 🟡 yellow dot means away, a red 📞 phone
+  icon means they're on a voice call, a red 📹 camera icon means they're on a video call, and a 🔌
+  gray power-off icon means they're currently offline/unreachable.
 - 🖼️ **Picture-in-Picture** — shrink an active call down and keep it running while you go back to
   the TV's own home screen. There's also an in-app floating call window that works on every device
   regardless of that support, letting you shrink the call into a small corner and keep browsing the
