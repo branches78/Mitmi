@@ -57,7 +57,7 @@ the biggest screen in the house.
   call media exists strictly in real time.
 - **Hardware Encoding Support** — AV1, H264 and H265 Hardware Encoding is supported as long as
   the device supports it, you can check the codec and the type of encoding used (hardware or software)
-  in the "Webcam Settings tab and at the "Stats for Nerds".
+  in the "Webcam Settings" tab and at the "Stats for Nerds".
 - **Adaptive bandwidth** — captures video at the camera's real maximum resolution and steps
   through a resolution ladder based on live network conditions, so quality adapts smoothly instead
   of freezing or dropping the call.
@@ -106,4 +106,4 @@ Found a bug or have a feature request? Open an issue on this repository.
 
 Proprietary. Unauthorized copying, modification, reverse engineering, or redistribution is
 prohibited. Please check the Terms & Conditions and Privacy Policy before creating a handle,
-at the at the Mitmi [website](mitmi-web.onrender.com) and at the bottom of the "About" tab.
+at the Mitmi [website](http://mitmi-web.onrender.com) and at the bottom of the "About" tab.
