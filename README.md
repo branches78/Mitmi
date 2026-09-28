@@ -13,7 +13,7 @@ the biggest screen in the house.
 ## ✨ Features
 
 - 📹 **1:1 video/voice calling** — outgoing and incoming, adaptive bitrate/resolution based on
-  live network conditions, hardware H.264 and H.265 encoding confirmed working on real devices.
+  live network conditions, H.264 and H.265 hardware encoding confirmed working on real devices.
 - 👥 **Group video calling** (up to 5 participants, mesh topology) — collapses to a 1:1-style layout
   as participants leave, supports rejoining an in-progress call at any time.
 - 📇 **Contacts & Call History** — stored locally on-device.
@@ -97,7 +97,7 @@ the biggest screen in the house.
 ## 🚨 Current Hardware Issues
 
 The Google TV Streamer has hardware encoding issues with the H.264 and H.265 codecs, which were reported
-at Google's Issue Tracker website [here](https://issuetracker.google.com/issues/546793415) and [here](https://issuetracker.google.com/issues/564530609) - feel free to leave a comment there asking for a prompt fix.
+at Google's Issue Tracker website [here](https://issuetracker.google.com/issues/546793415) and [here](https://issuetracker.google.com/issues/564530609). Feel free to leave a comment there asking for a prompt fix.
 
 ## 💬 Support & Feedback
 
