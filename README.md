@@ -74,8 +74,8 @@ the biggest screen in the house.
 ## 📒 How to Obtain & Add Contacts
   
 - Every user on Mitmi has a unique username handle (for example: @sarah_chen or @living_room).
-- Ask for Their Username Handle: Request your friend or family member's @username to connect directly.
-- Save in Address Book: Use the Contacts tab to add them to your directory or type their handle
+- **Ask for Their Username Handle**: Request your friend or family member's @username to connect directly.
+- **Save in Address Book**: Use the Contacts tab to add them to your directory or type their handle
   into search to dial immediately without saving.
 
 ## ⚠️ Technical Limitations
