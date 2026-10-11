@@ -33,10 +33,8 @@ the biggest screen in the house.
   they're reachable right now: 🟢 green dot means online, 🟡 yellow dot means away, a red 📞 phone
   icon means they're on a voice call, a red 📹 camera icon means they're on a video call, and a 🔌
   gray power-off icon means they're currently offline/unreachable.
-- 🖼️ **Picture-in-Picture**: shrink an active call down and keep it running while you go back to
-  the TV's own home screen. There's also an in-app floating call window that works on every device
-  regardless of that support, letting you shrink the call into a small corner and keep browsing the
-  rest of Mitmi without leaving it at all.
+- 🖼️ **Picture-in-Picture**: shrinks an active call to the bottom right corner of the screen and keep it
+  running while you go back to the TV's own home screen.
 - 🤓 **Stats for Nerds**: an optional overlay during a call showing the real technical numbers
   behind it: video resolution, bitrate, and packet loss in each direction, network latency, and
   how the call is actually connected (direct, or relayed through a server). Useful for checking
@@ -83,13 +81,13 @@ the biggest screen in the house.
 - Not every device has hardware encoding support, when that's the case, the supported resolution
   will be limited to something lower than what the camera supports compared to hardware encoding
   and on top of that, the device will run hotter and may reboot if it gets hotter than it can handle.
-  You can check if your device has hardware encoding support by going to "Settings" → "Webcam Settings"
+  You can check if your device has hardware encoding support by going to "Settings" → "Webcam"
   where you will see the confirmation at the top of the card. If you want hardware encoding on your
   device, please reach out to the manufacturer.
 - Picture-in-Picture isn't universally supported, several devices likely don't support it, or
   used to but no longer do, so the video call will simply end when pressing the Home button on
   the remote control. The only tested device confirmed to support it so far is the Google TV
-  Streamer. You can get a confirmation about this in "Settings" → "Other Settings" tab.
+  Streamer. You can get a confirmation about this in "Settings" → "Notifications" tab.
 - For some reason, the microphone on some webcams is not detected by one particular device
   but the same microphone is detected by a different device. This limitation has nothing
   to do with the application but with the device's firmware.
