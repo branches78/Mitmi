@@ -12,7 +12,7 @@
   <a href="https://liberapay.com/branches78/donate"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="Donate using Liberapay"></a>
 </p>
 
-## 👋 What is it?
+## 🤔 What is it?
 
 Mitmi is a video calling app made for the TV, a way to close the distance between the people
 who matter, whether that's family who live far away, friends who don't get to visit often, or
