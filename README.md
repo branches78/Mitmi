@@ -1,6 +1,4 @@
-# Mitmi
-
-Private video calls on your TV for free, baked with WebRTC, with no ads and no tracking.
+<img width="1024" height="500" alt="mitmi-feature-graphic-1024x500-en" src="https://github.com/user-attachments/assets/c5e7368b-67e1-4570-9ffd-94479cf1b15e" />
 
 ## 👋 What is it?
 
