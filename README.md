@@ -1,15 +1,15 @@
 <img width="1024" height="500" alt="mitmi-feature-graphic-1024x500-en" src="https://github.com/user-attachments/assets/c5e7368b-67e1-4570-9ffd-94479cf1b15e" />
 
 <p align="center">
-  <a href="https://liberapay.com/branches78/donate"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="Donate using Liberapay"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/branches78/Mitmi/stargazers"><img src="https://img.shields.io/github/stars/branches78/Mitmi?label=stars&labelColor=24292f&color=c6efce" alt="stars"></a>
   <a href="https://github.com/branches78/Mitmi/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/branches78/Mitmi?label=merged%20PRs&labelColor=24292f&color=c6efce" alt="merged PRs"></a>
   <a href="https://github.com/branches78/Mitmi/forks"><img src="https://img.shields.io/github/forks/branches78/Mitmi?label=forks&labelColor=24292f&color=c6efce" alt="forks"></a>
   <a href="https://github.com/branches78/Mitmi/graphs/contributors"><img src="https://img.shields.io/github/contributors/branches78/Mitmi?label=contributors&labelColor=24292f&color=c6efce" alt="contributors"></a>
   <a href="https://liberapay.com/branches78/donate"><img src="https://img.shields.io/badge/support-%E2%9D%A4-ea4aaa?labelColor=24292f" alt="support"></a>
+</p>
+
+<p align="center">
+  <a href="https://liberapay.com/branches78/donate"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="Donate using Liberapay"></a>
 </p>
 
 ## 👋 What is it?
