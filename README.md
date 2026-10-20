@@ -1,6 +1,8 @@
 <img width="1024" height="500" alt="mitmi-feature-graphic-1024x500-en" src="https://github.com/user-attachments/assets/c5e7368b-67e1-4570-9ffd-94479cf1b15e" />
 
-[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/branches78/donate)
+<p align="center">
+  <a href="https://liberapay.com/branches78/donate"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="Donate using Liberapay"></a>
+</p>
 
 ## 👋 What is it?
 
